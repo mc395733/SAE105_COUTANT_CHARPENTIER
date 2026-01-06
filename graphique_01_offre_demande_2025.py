@@ -7,7 +7,6 @@ CONSO = "evolutionconsommation.csv"
 
 def fr(x): return float(str(x).replace(",", ".")) if x else 0.0
 
-# Production mensuelle (TWh)
 prod = {}
 with open(PROD, newline="", encoding="utf-8-sig") as f:
     for r in csv.DictReader(f, delimiter=";"):
@@ -15,7 +14,6 @@ with open(PROD, newline="", encoding="utf-8-sig") as f:
             m = r["Date"][:7]
             prod[m] = prod.get(m, 0.0) + fr(r.get("Valeur (TWh)",""))
 
-# Consommation hebdo -> mensuel (TWh)
 conso = {}
 with open(CONSO, newline="", encoding="utf-8-sig") as f:
     for r in csv.DictReader(f, delimiter=";"):
