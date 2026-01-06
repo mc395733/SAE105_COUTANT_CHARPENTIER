@@ -6,8 +6,7 @@ DATA = "_C3_89volution_du_parc_install_C3_A9_de_production_d_27_C3_A9lectricit_C
 def fr(x): return float(str(x).replace(",", ".")) if x else 0.0
 
 years = []
-series = {}  # filière -> {année: valeur}
-
+series = {} 
 with open(DATA, newline="", encoding="utf-8-sig") as f:
     for r in csv.DictReader(f, delimiter=";"):
         y = int(r["Date"])
