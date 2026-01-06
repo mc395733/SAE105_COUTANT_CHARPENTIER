@@ -5,7 +5,7 @@ DATA = "R_C3_A9partition_des_principales_installations_de_production_d_27_C3_A9l
 
 def fr(x): return float(str(x).replace(",", ".")) if x else 0.0
 
-points = {}  # filière -> (lons, lats, sizes)
+points = {} 
 with open(DATA, newline="", encoding="utf-8-sig") as f:
     for r in csv.DictReader(f, delimiter=";"):
         fil = r["Filière"].strip()
@@ -15,8 +15,7 @@ with open(DATA, newline="", encoding="utf-8-sig") as f:
         points.setdefault(fil, ([], [], []))
         points[fil][0].append(lon)
         points[fil][1].append(lat)
-        points[fil][2].append(max(10, mw / 200))  # taille simple
-
+        points[fil][2].append(max(10, mw / 200)) 
 plt.figure()
 for fil in sorted(points.keys()):
     lons, lats, sizes = points[fil]
