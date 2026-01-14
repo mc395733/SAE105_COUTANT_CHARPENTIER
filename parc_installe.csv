@@ -1,0 +1,153 @@
+﻿Date;Filière;Valeur (GW)
+2007;"Nucléaire";63,26
+2008;"Nucléaire";63,26
+2009;"Nucléaire";63,13
+2010;"Nucléaire";63,13
+2011;"Nucléaire";63,13
+2012;"Nucléaire";63,13
+2013;"Nucléaire";63,13
+2014;"Nucléaire";63,13
+2015;"Nucléaire";63,13
+2016;"Nucléaire";63,13
+2017;"Nucléaire";63,13
+2018;"Nucléaire";63,13
+2019;"Nucléaire";63,13
+2020;"Nucléaire";61,37
+2021;"Nucléaire";61,37
+2022;"Nucléaire";61,37
+2023;"Nucléaire";61,37
+2024;"Nucléaire";61,37
+2025;"Nucléaire";62,99
+2007;"Hydraulique";25,413
+2008;"Hydraulique";25,36
+2009;"Hydraulique";25,357
+2010;"Hydraulique";25,392
+2011;"Hydraulique";25,394
+2012;"Hydraulique";25,407
+2013;"Hydraulique";25,434
+2014;"Hydraulique";25,587877
+2015;"Hydraulique";25,590332
+2016;"Hydraulique";25,623902
+2017;"Hydraulique";25,5589545
+2018;"Hydraulique";25,5551215
+2019;"Hydraulique";25,7054475
+2020;"Hydraulique";25,6514615
+2021;"Hydraulique";25,665999
+2022;"Hydraulique";25,68014859
+2023;"Hydraulique";25,69448245
+2024;"Hydraulique";25,7198991
+2025;"Hydraulique";25,74777632
+2007;"Thermique fossile";24,055
+2008;"Thermique fossile";24,665
+2009;"Thermique fossile";26,155
+2010;"Thermique fossile";27,399
+2011;"Thermique fossile";27,813
+2012;"Thermique fossile";27,827
+2013;"Thermique fossile";25,707
+2014;"Thermique fossile";23,757851
+2015;"Thermique fossile";23,216024
+2016;"Thermique fossile";21,493346
+2017;"Thermique fossile";18,64318905
+2018;"Thermique fossile";18,108753
+2019;"Thermique fossile";18,105124
+2020;"Thermique fossile";18,20467734
+2021;"Thermique fossile";17,60435234
+2022;"Thermique fossile";17,49947389
+2023;"Thermique fossile";17,48343489
+2024;"Thermique fossile";17,42804689
+2025;"Thermique fossile";17,25285039
+2007;"Éolien";2,252
+2008;"Éolien";3,327
+2009;"Éolien";4,573
+2010;"Éolien";5,762
+2011;"Éolien";6,714
+2012;"Éolien";7,536
+2013;"Éolien";8,157
+2014;"Éolien";9,3032916
+2015;"Éolien";10,313627
+2016;"Éolien";11,794833
+2017;"Éolien";13,5088149
+2018;"Éolien";15,0675319
+2019;"Éolien";16,4586633
+2020;"Éolien";17,5481508
+2021;"Éolien";18,8316904
+2022;"Éolien";21,05407995
+2023;"Éolien";22,68729885
+2024;"Éolien";24,45282927
+2025;"Éolien";25,55768997
+2007;"Solaire";0,007
+2008;"Solaire";0,03
+2009;"Solaire";0,19
+2010;"Solaire";0,878
+2011;"Solaire";2,584
+2012;"Solaire";3,727
+2013;"Solaire";4,366
+2014;"Solaire";5,3011651
+2015;"Solaire";6,206674
+2016;"Solaire";6,787195
+2017;"Solaire";7,64130338
+2018;"Solaire";8,556977987
+2019;"Solaire";9,480824963
+2020;"Solaire";10,35584883
+2021;"Solaire";13,08694143
+2022;"Solaire";16,05912629
+2023;"Solaire";19,40292354
+2024;"Solaire";24,35151132
+2025;"Solaire";29,02858919
+2007;"Thermique renouvelable et déchets";0,953
+2008;"Thermique renouvelable et déchets";0,986
+2009;"Thermique renouvelable et déchets";1,029
+2010;"Thermique renouvelable et déchets";1,224
+2011;"Thermique renouvelable et déchets";1,237
+2012;"Thermique renouvelable et déchets";1,346
+2013;"Thermique renouvelable et déchets";1,496
+2014;"Thermique renouvelable et déchets";1,628454
+2015;"Thermique renouvelable et déchets";1,733858
+2016;"Thermique renouvelable et déchets";1,898345
+2017;"Thermique renouvelable et déchets";1,929121
+2018;"Thermique renouvelable et déchets";2,026534
+2019;"Thermique renouvelable et déchets";2,08076106
+2020;"Thermique renouvelable et déchets";2,14155606
+2021;"Thermique renouvelable et déchets";2,18476006
+2022;"Thermique renouvelable et déchets";2,1863354
+2023;"Thermique renouvelable et déchets";2,24403224
+2024;"Thermique renouvelable et déchets";2,27891054
+2025;"Thermique renouvelable et déchets";2,28074994
+2007;"Autre";
+2008;"Autre";
+2009;"Autre";
+2010;"Autre";
+2011;"Autre";
+2012;"Autre";
+2013;"Autre";
+2014;"Autre";0,000991
+2015;"Autre";0,001741
+2016;"Autre";0,007809
+2017;"Autre";0,011523
+2018;"Autre";0,039112
+2019;"Autre";0,049895
+2020;"Autre";0,048528
+2021;"Autre";0,057598
+2022;"Autre";0,01320095
+2023;"Autre";0,01816293
+2024;"Autre";0,02015457
+2025;"Autre";0,02112695
+2007;"Puissance installée totale ";115,94
+2008;"Puissance installée totale ";117,628
+2009;"Puissance installée totale ";120,434
+2010;"Puissance installée totale ";123,785
+2011;"Puissance installée totale ";126,872
+2012;"Puissance installée totale ";128,973
+2013;"Puissance installée totale ";128,29
+2014;"Puissance installée totale ";128,7096297
+2015;"Puissance installée totale ";130,192256
+2016;"Puissance installée totale ";130,73543
+2017;"Puissance installée totale ";130,42290583
+2018;"Puissance installée totale ";132,484030387
+2019;"Puissance installée totale ";135,010715823
+2020;"Puissance installée totale ";135,32022253
+2021;"Puissance installée totale ";138,80134123
+2022;"Puissance installée totale ";143,86236507
+2023;"Puissance installée totale ";148,9003349
+2024;"Puissance installée totale ";155,62135169
+2025;"Puissance installée totale ";162,87878276
